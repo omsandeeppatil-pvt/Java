@@ -16,7 +16,7 @@ This repository is not just a collection of notes. It's a **survival guide** for
 
 ## 🛠 Repository Survival Kit
 
-[![Open in VS Code](https://img.shields.io/badge/Open%20in-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)](vscode://vscode.git/clone?url=https://github.com/omsandeeppatil-pvt/Java)
+[![Open in VS Code](https://img.shields.io/badge/Open%20in-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)](https://github.dev/omsandeeppatil-pvt/Java)
 
 **Click the button above. If you dare.**
 
